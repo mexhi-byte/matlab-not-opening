@@ -1,14 +1,14 @@
 # matlab-not-opening
 matlab wont opening or starting or live editor dont work
 ___________________________________________________________________________________________________________________________________
-extract matlab to a folder. after unzip go to matlab foldr bin/glnxa64 and delet these file
-libfreetype.so.6 exclude/
- libfreetype.so.6.16.0
+extract matlab to a folder. after unzip go to matlab folder bin/glnxa64 and delete these file
+libfreetype.so.6 
+libfreetype.so.6.16.0
  
  
  if you have install the matlab and the programm doesent open 
  or 
- if the program opens snd live script doesent work open the termial and paste these
+ if the program opens snd live script doesent work open the termial and type
  
 _____________________________________________________________________________________________________________________________________  
 cd <matlab installer root directory>
